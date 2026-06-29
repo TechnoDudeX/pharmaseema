@@ -1,10 +1,10 @@
 # Pharma Seema
 
-Professional portfolio website for **Seema Belim, RPh** — a Licensed Clinical Consultant Pharmacist specializing in senior care, medication reviews, and long-term care in Ontario, Canada.
+Professional portfolio website for **Seema Belim, PharmD, RPh** — a Licensed Clinical Consultant Pharmacist specializing in senior care, medication reviews, and long-term care in Ontario, Canada.
 
 ## About
 
-Seema Belim is an OCP-licensed pharmacist with 5+ years of experience across community, compounding, and long-term care settings. She currently serves as a Clinical Consultant Pharmacist at CareRx Corporation, focusing on medication safety for retirement homes and LTC facilities.
+Seema Belim is an OCP-licensed pharmacist with 5+ years in pharmacy across community, compounding, and long-term care settings. She currently serves as a Clinical Consultant Pharmacist at CareRx Corporation, focusing on medication safety for retirement homes and LTC facilities.
 
 ## Site Sections
 
@@ -20,7 +20,7 @@ Seema Belim is an OCP-licensed pharmacist with 5+ years of experience across com
 - [Figtree](https://fonts.google.com/specimen/Figtree) + [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) via Google Fonts
 - Inline SVG icons (Lucide-style)
 - Responsive design (mobile, tablet, desktop)
-- WCAG AAA accessible (skip links, focus-visible, ARIA labels, reduced-motion support)
+- Built with accessibility in mind — skip links, focus-visible states, ARIA labels, reduced-motion support (targets WCAG 2.1 AA)
 
 ## Development
 
